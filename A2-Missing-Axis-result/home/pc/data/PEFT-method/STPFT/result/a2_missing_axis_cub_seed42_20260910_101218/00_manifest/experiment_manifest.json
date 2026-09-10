@@ -1,0 +1,13 @@
+{
+  "experiment": "A2",
+  "dataset": "cub",
+  "seed": 42,
+  "parent_run": "a1_complete_a2_cub_seed42_20260909_1912",
+  "anchor": "/home/pc/data/PEFT-method/STPFT/result/a1_complete_a2_cub_seed42_20260909_1912/03_a1_stage/anchors/middle/e1_update_2514.pt",
+  "horizon": 200,
+  "scenarios": [
+    "TP_omit_S",
+    "SP_omit_T",
+    "ST_omit_P"
+  ]
+}

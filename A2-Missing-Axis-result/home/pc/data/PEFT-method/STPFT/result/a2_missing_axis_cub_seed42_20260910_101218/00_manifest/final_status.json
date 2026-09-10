@@ -1,0 +1,8 @@
+{
+  "status": "A2_COMPLETE",
+  "scenarios": [
+    "TP_omit_S",
+    "SP_omit_T",
+    "ST_omit_P"
+  ]
+}

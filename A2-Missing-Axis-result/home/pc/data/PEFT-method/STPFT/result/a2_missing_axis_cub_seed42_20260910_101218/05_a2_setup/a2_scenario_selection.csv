@@ -1,0 +1,4 @@
+scenario,base_pair,omitted_axis,why_selected,available_cost_range,feasible_matched_budget
+TP_omit_S,TP,S,A1 partial support; test omitted-axis intervention,A1-derived,pending calibration
+SP_omit_T,SP,T,A1 partial support; test omitted-axis intervention,A1-derived,pending calibration
+ST_omit_P,ST,P,A1 partial support; test omitted-axis intervention,A1-derived,pending calibration

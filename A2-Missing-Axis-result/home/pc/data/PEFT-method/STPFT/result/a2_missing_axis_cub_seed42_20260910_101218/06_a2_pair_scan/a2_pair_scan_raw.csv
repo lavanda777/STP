@@ -1,0 +1,7 @@
+run_id,raw_gain,ema_gain,val_loss_reduction,train_compute_seconds,train_system_seconds,peak_memory_allocated,source_folder
+pair_TP_omit_S_1,1.1666666666666572,0.3333333333333286,-0.06498565514882415,26.666422755806707,27.599766816128977,3571338240,/home/pc/data/PEFT-method/STPFT/result/a2_missing_axis_cub_seed42_20260910_101218/06_a2_pair_scan/pair_TP_omit_S_1
+pair_TP_omit_S_2,0.6666666666666572,0.0,-0.09621219793955493,25.982635209918953,26.859434448298998,2808469504,/home/pc/data/PEFT-method/STPFT/result/a2_missing_axis_cub_seed42_20260910_101218/06_a2_pair_scan/pair_TP_omit_S_2
+pair_SP_omit_T_1,1.1666666666666572,1.3333333333333286,-0.033509446779886876,25.133274251245894,26.115554029121995,4324524032,/home/pc/data/PEFT-method/STPFT/result/a2_missing_axis_cub_seed42_20260910_101218/06_a2_pair_scan/pair_SP_omit_T_1
+pair_SP_omit_T_2,1.6666666666666572,1.1666666666666572,-0.045238102277119996,26.73885245702695,27.725058541400358,4263004160,/home/pc/data/PEFT-method/STPFT/result/a2_missing_axis_cub_seed42_20260910_101218/06_a2_pair_scan/pair_SP_omit_T_2
+pair_ST_omit_P_1,0.3333333333333286,1.0,-0.05208299001057948,17.224477770738304,18.458901316393167,4132118528,/home/pc/data/PEFT-method/STPFT/result/a2_missing_axis_cub_seed42_20260910_101218/06_a2_pair_scan/pair_ST_omit_P_1
+pair_ST_omit_P_2,0.8333333333333286,0.8333333333333286,-0.11431876023610432,16.92049352801405,18.054984018439427,3301537280,/home/pc/data/PEFT-method/STPFT/result/a2_missing_axis_cub_seed42_20260910_101218/06_a2_pair_scan/pair_ST_omit_P_2
