@@ -1,0 +1,3 @@
+scenario,base_run_id,base_checkpoint,base_config,dual_base_positive_gain,raw_loss_reduction
+SP,SP_075_P020,/home/pc/data/PEFT-method/STPFT/result/a2_v2_cub_seed42_104800/01_dual_pair_scan/SP_075_P020/last.pt,SP_075_P020,False,-0.03612538814544686
+TP,TP_070_P005,/home/pc/data/PEFT-method/STPFT/result/a2_v2_cub_seed42_104800/01_dual_pair_scan/TP_070_P005/last.pt,TP_070_P005,False,-0.06423008759816495

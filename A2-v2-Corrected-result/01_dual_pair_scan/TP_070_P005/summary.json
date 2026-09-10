@@ -1,0 +1,60 @@
+{
+  "status": "paused",
+  "progress": {
+    "epoch": 16,
+    "next_batch": 32,
+    "batches_seen": 2720,
+    "loss_sum": 2209.0274963378906,
+    "samples": 1024,
+    "best_test_top1": 86.66666666666667,
+    "best_epoch": 16
+  },
+  "timing": {
+    "training_seconds": 27.425001634750515,
+    "forward_seconds": 3.449238248825075,
+    "backward_seconds": 8.088473548889162,
+    "optimizer_seconds": 14.99803202438355,
+    "data_wait_seconds": 0.9615672142244875,
+    "evaluation_seconds": 9.12709844717756,
+    "checkpoint_seconds": 13.23015161906369,
+    "timed_steps": 200,
+    "amp_skipped_steps": 0,
+    "peak_memory_bytes": 3509818368,
+    "peak_memory_reserved_bytes": 3955228672,
+    "scoring_seconds": 0.0,
+    "scoring_calls": 0,
+    "sample_selection_seconds": 0.0,
+    "candidate_samples": 6400,
+    "training_samples": 6400
+  },
+  "probe_start": {
+    "raw": {
+      "loss": 0.8131490882237752,
+      "top1": 84.16666666666667,
+      "samples": 600,
+      "seconds": 1.4262627669377252
+    },
+    "ema": {
+      "loss": 0.7632983875274658,
+      "top1": 85.66666666666667,
+      "samples": 600,
+      "seconds": 0.9980697811115533
+    }
+  },
+  "probe_end": {
+    "raw": {
+      "loss": 0.8773791758219401,
+      "top1": 85.33333333333333,
+      "samples": 600,
+      "seconds": 1.2908271860796958
+    },
+    "ema": {
+      "loss": 0.8032717196146647,
+      "top1": 87.33333333333333,
+      "samples": 600,
+      "seconds": 1.196798086981289
+    }
+  },
+  "stop_target": 2714,
+  "updates": 2714
+}
