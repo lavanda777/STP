@@ -1,0 +1,34 @@
+{
+  "status": "paused",
+  "progress": {
+    "epoch": 15,
+    "next_batch": 80,
+    "batches_seen": 2600,
+    "loss_sum": 6051.9371337890625,
+    "samples": 2560,
+    "best_test_top1": 87.83333333333333,
+    "best_epoch": 10
+  },
+  "timing": {
+    "training_seconds": 173.88246557791717,
+    "forward_seconds": 49.1238399066924,
+    "backward_seconds": 86.74713374137875,
+    "optimizer_seconds": 25.65049389535189,
+    "data_wait_seconds": 7.695396012277342,
+    "evaluation_seconds": 31.12253447144758,
+    "checkpoint_seconds": 165.43164282478392,
+    "timed_steps": 2600,
+    "amp_skipped_steps": 6,
+    "peak_memory_bytes": 4933629952,
+    "peak_memory_reserved_bytes": 5486149632,
+    "scoring_seconds": 0.0,
+    "scoring_calls": 0,
+    "sample_selection_seconds": 0.0,
+    "candidate_samples": 83200,
+    "training_samples": 83200
+  },
+  "probe_start": null,
+  "probe_end": null,
+  "stop_target": 2594,
+  "updates": 2594
+}
